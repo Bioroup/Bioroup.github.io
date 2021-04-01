@@ -1,4 +1,5 @@
 # 这是属于hsyBioroup的网站
 ## 成员简介
-##### WUDA 
+##### 吴达 
+###### 学名：
 ![WUDA](/wuda.jpg)
